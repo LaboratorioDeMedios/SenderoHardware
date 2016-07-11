@@ -17,3 +17,6 @@ Here are some images of these components.
 
 ![Dongle Bondibar connection](http://sendero.uy/images/wb-connection.png)
 
+
+---------
+Logo designed by flaviarampa@gmail.com & nilsonbarbara@gmail.com
